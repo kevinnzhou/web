@@ -3,6 +3,11 @@ body {
   text-align: center;
   }
   
+ul {
+  font-weight: bold;
+  font-family: sans-serif
+}
+
 h1 {
   font-style: small-caps bold sans-serif;
   }
@@ -17,4 +22,7 @@ p {
   color: initial
   }
   
+a {
+  color: #F8BB1D
+}
   
