@@ -9,12 +9,12 @@ ul {
 }
 
 h1 {
-  font-style: small-caps bold sans-serif;
+  font-family: sans-serif;
   }
   
 h2 {
-  font-style: small-caps bold sans-serif;
-  color: #F8BB1D;
+  font-family: sans-serif;
+  color: #FF7F00;
   }
   
 p {
@@ -23,6 +23,6 @@ p {
   }
   
 a {
-  color: #F8BB1D
+  color: #FF7F00
 }
   
