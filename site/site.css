@@ -1,1 +1,39 @@
+body {
+  background-color: #D8EBFB;
+  text-align: center;
+  }
 
+.body {
+  background-color: #D8EBFB;
+  text-align: center;
+  }
+  
+.p {
+    background-color: #B6DCFD;  
+  color: initial
+  font-weight: normal
+  font-family: Georgia, serif;
+  }
+
+ul {
+  font-weight: bold;
+  font-family: sans-serif
+}
+
+ol {
+  font-weight: bold;
+  font-family: sans-serif
+}
+
+h1 {
+  font-family: sans-serif;
+  }
+  
+h2 {
+  font-family: sans-serif;
+  color: #FF7F00;
+  }
+
+a {
+  color: #FF7F00
+}
