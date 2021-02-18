@@ -11,6 +11,10 @@ body {
   background-color: #D8EBFB;
   text-align: center;
   }
+
+.body img {
+    width: 50%;
+}
   
 p {
     background-color: #B6DCFD;  
