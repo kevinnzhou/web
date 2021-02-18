@@ -10,6 +10,8 @@ body {
 .body {
   background-color: #D8EBFB;
   text-align: center;
+  font-weight: normal
+  font-family: Georgia, serif;
   }
 
 .body img {
