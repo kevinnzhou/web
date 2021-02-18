@@ -1,3 +1,7 @@
+head img  {
+    width: 50%;
+}
+
 body {
   background-color: #D8EBFB;
   text-align: center;
@@ -8,7 +12,7 @@ body {
   text-align: center;
   }
   
-.p {
+p {
     background-color: #B6DCFD;  
   color: initial
   font-weight: normal
