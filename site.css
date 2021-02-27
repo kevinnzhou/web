@@ -3,19 +3,17 @@ head img  {
 }
 
 body {
-  background-color: #D8EBFB;
   text-align: center;
   }
 
 .body {
-  background-color: #D8EBFB;
   text-align: center;
   font-weight: normal
   font-family: Georgia, serif;
   }
 
 .body img {
-    width: 50%;
+    px: 500
 }
   
 p {
