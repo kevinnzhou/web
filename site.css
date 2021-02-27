@@ -2,6 +2,22 @@ head img  {
     width: 50%;
 }
 
+.navbar {
+    overflow: hidden; 
+    background-color: #54abf8;
+}
+
+.navbar a {
+    float: left
+    color: white
+    padding: 15x 15px;
+}
+
+.navbar a:hover { 
+    background-color: #B6DCFD
+    color: white
+}
+
 body {
   text-align: center;
   }
