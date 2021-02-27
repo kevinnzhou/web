@@ -2,7 +2,6 @@
 .navbar {
     overflow: hidden; 
     background-color: #B6DCFD;
-    border: 15px solid #51abfb;
 }
 
 body {
@@ -10,10 +9,12 @@ body {
   text-align: center;
   }
 
-body {
+.body {
+  background-color: #B6DCFD; 
   text-align: center;
   font-weight: normal;
   font-family: Georgia, serif;
+  border-top: 5px solid #5eaded;
   }
 
 p {
