@@ -2,11 +2,7 @@
 .navbar {
     overflow: hidden; 
     background-color: #B6DCFD;
-}
-
-.navbar a {
-    color: white
-    padding: 25px 25px;
+    border: 15px solid #51abfb;
 }
 
 body {
