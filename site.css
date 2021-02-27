@@ -5,51 +5,41 @@
 }
 
 .navbar a {
-    float: left
     color: white
     padding: 25px 25px;
 }
 
-.navbar a:hover { 
-    background-color: #B6DCFD
-    color: white
-}
-
-huddle { 
-    px: 500
-}
-
 body {
-  background-color: #B6DCFd;
+  background-color: #B6DCFD; 
   text-align: center;
   }
 
 body {
   text-align: center;
-  font-weight: normal
+  font-weight: normal;
   font-family: Georgia, serif;
   }
 
 p {
     background-color: #B6DCFD;  
-  color: initial
-  font-weight: normal
+  color: initial;
+  font-weight: normal;
   font-family: Georgia, serif;
   }
 
 p img {
-    px: 500
+    px: 500;
 }
 
 ul {
   font-weight: bold;
     
-  font-family: sans-serif
+  font-family: sans-serif;
 }
 
 ol {
   font-weight: bold;
-  font-family: sans-serif
+  font-family: sans-serif;
   background-color: #D8EBFB;
 }
 
@@ -63,5 +53,5 @@ h2 {
   }
 
 a {
-  color: #FF7F00
+  color: #FF7F00;
 }
