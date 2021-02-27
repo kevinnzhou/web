@@ -1,16 +1,16 @@
 
-navbar {
+.navbar {
     overflow: hidden; 
     background-color: #54abf8;
 }
 
-navbar a {
+.navbar a {
     float: left
     color: white
     padding: 25px 25px;
 }
 
-navbar a:hover { 
+.navbar a:hover { 
     background-color: #B6DCFD
     color: white
 }
