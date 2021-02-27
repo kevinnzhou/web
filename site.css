@@ -1,6 +1,3 @@
-head img  {
-    width: 50%;
-}
 
 .navbar {
     overflow: hidden; 
@@ -38,6 +35,10 @@ p {
   font-weight: normal
   font-family: Georgia, serif;
   }
+
+p img {
+    px: 500
+}
 
 ul {
   font-weight: bold;
