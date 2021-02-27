@@ -15,6 +15,10 @@ navbar a:hover {
     color: white
 }
 
+huddle { 
+    px: 500
+}
+
 body {
   background-color: #B6DCFd;
   text-align: center;
@@ -26,10 +30,6 @@ body {
   font-family: Georgia, serif;
   }
 
-body img {
-    px: 500
-}
-  
 p {
     background-color: #B6DCFD;  
   color: initial
