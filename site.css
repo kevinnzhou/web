@@ -23,20 +23,19 @@ p {
   font-family: Georgia, serif;
   }
 
-p img {
-    px: 500;
+img {
+    width: 500px;
 }
 
 ul {
   font-weight: bold;
-    
   font-family: sans-serif;
 }
 
 ol {
   font-weight: bold;
   font-family: sans-serif;
-  background-color: #D8EBFB;
+  background-color: #B6DCFD;
 }
 
 h1 {
