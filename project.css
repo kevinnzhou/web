@@ -1,0 +1,52 @@
+.navbar {
+    overflow: hidden; 
+    background-color: #B6DCFD;
+    font-weight: bold;
+    font-size: 20px;
+}
+
+body {
+  background-color: #B6DCFD; 
+  text-align: center;
+  }
+
+.body {
+  background-color: #B6DCFD; 
+  text-align: center;
+  font-weight: normal;
+  font-family: Georgia, serif;
+  border-top: 5px solid #5eaded;
+  }
+
+p {
+    background-color: #B6DCFD;  
+  color: initial;
+  font-weight: normal;
+  font-family: Georgia, serif;
+  }
+
+img {
+    width: 500px;
+}
+
+ul {
+  font-family: sans-serif;
+}
+
+ol {
+  font-family: sans-serif;
+  background-color: #B6DCFD;
+}
+
+h1 {
+  font-family: sans-serif;
+  }
+  
+h2 {
+  font-family: sans-serif;
+  color: #FF7F00;
+  }
+
+a {
+  color: #FF7F00;
+}
