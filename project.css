@@ -6,12 +6,12 @@
 }
 
 body {
-  background-color: #B6DCFD; 
+  background-color: #8c8c8c; 
   text-align: center;
   }
 
 .body {
-  background-color: #B6DCFD; 
+  background-color: #8c8c8c; 
   text-align: center;
   font-weight: normal;
   font-family: Georgia, serif;
@@ -19,7 +19,7 @@ body {
   }
 
 p {
-    background-color: #B6DCFD;  
+    background-color: #8c8c8c;  
   color: initial;
   font-weight: normal;
   font-family: Georgia, serif;
@@ -38,7 +38,7 @@ ul {
 
 ol {
   font-family: sans-serif;
-  background-color: #B6DCFD;
+  background-color: #8c8c8c;
 }
 
 h1 {
