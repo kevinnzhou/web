@@ -3,6 +3,7 @@
     background-color: #666666;
     font-weight: bold;
     font-size: 20px;
+    color: black;
 }
 
 body {
@@ -15,7 +16,7 @@ body {
   text-align: center;
   font-weight: normal;
   font-family: Georgia, serif;
-  border-top: 5px solid #5eaded;
+  border-top: 5px solid black;
   }
 
 p {
@@ -47,7 +48,7 @@ h1 {
   
 h2 {
   font-family: sans-serif;
-  color: #FF7F00;
+  color: black;
   }
 
 a {
